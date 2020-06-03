@@ -7,5 +7,6 @@ namespace WebApplication3.Models
 {
     public class DCandidate
     {
+        public int id { get; set; }
     }
 }
